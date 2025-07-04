@@ -4,6 +4,8 @@
         "deepseek",
         "dotenv",
         "Placment",
-        "Resourses"
+        "Registrationwith",
+        "Resourses",
+        "securepassword"
     ]
 }
